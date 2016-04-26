@@ -1,0 +1,1 @@
+def golf(n):while 1:n+=1;if `n`[::-1]==`n`*(~-2**n%n<2):return n

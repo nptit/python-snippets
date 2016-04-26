@@ -1,0 +1,1 @@
+import itertools as ;u=range;golf=lambda l:min(set(u(1,sum(l)+2))-set(sum(c)for r in u(1,len(l)+1)for c in t.combinations(l,r)))

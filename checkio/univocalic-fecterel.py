@@ -1,0 +1,1 @@
+x=chr(97);exec'e_fecterel=g=l%smbd%s n:0**n %sr n*g(n-1)'%(x,x,chr(111))

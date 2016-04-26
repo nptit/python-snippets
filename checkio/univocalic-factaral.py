@@ -1,0 +1,1 @@
+a_factaral=g=lambda n:(n>1and n*g(n-1),1)[n<2]

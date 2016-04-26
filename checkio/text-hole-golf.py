@@ -1,0 +1,1 @@
+e=enumerate;u=range;golf=lambda t:sum(1for i,l in e(t[1:-1])for j,c in e(l[1:-1])if c==' 'and sum(t[x][y:y+1]in[' ','']for x in u(i,i+3)for y in u(j,j+3))==1)
